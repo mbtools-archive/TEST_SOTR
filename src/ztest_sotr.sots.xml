@@ -37,6 +37,23 @@
       </SOTR_TEXTL>
      </ENTRIES>
     </item>
+    <item>
+     <HEADER>
+      <CONCEPT>000D3A8FA0651EEB99947E6AF06488C7</CONCEPT>
+      <CREA_LAN>E</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AIA=</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXTL>
+       <CONCEPT>000D3A8FA0651EEB99947E6AF06488C7</CONCEPT>
+       <LANGU>E</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+      </SOTR_TEXTL>
+     </ENTRIES>
+    </item>
    </SOTS>
   </asx:values>
  </asx:abap>
